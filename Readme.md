@@ -1,1 +1,1 @@
-upisali smo nesto u readme fajl
+promenili smo tekstnesto u readme fajl
